@@ -1,0 +1,22 @@
+{
+  "name": "iOSViews",
+  "version": "0.1.0",
+  "summary": "A short description of iOSViews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fmbi1984/iOSViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fmbi1984": "fmbi1984@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fmbi1984/iOSViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSViews/Classes/**/*"
+}
